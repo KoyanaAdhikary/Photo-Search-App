@@ -1,4 +1,4 @@
-This is a small application to search pictures.
+This is a small responsive application to search pictures.
 Tech stack- React Library
             JSX
             SCSS
@@ -10,4 +10,5 @@ How to start using the app?
 2. Clone the repository in your machine. Use the instructions in github.
 3. Install dependencies--> npm install
 4. Start the application--> npm start
-5. Test the application--> npx cypress open
+5. You can access the application --> http://localhost:3000/
+6. Test the application--> npx cypress open
