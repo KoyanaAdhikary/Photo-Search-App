@@ -10,9 +10,6 @@ export default function SearchPhoto() {
   });
   const searchPhotos = async (e) => {
       e.preventDefault();
-    // let res = await searchPhotosApi(query);
-    // console.log(res);
-    // setPics(res);
     unsplash.search
       .getPhotos({
         query: query,
